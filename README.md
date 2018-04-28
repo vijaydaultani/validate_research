@@ -119,7 +119,7 @@ See the [LICENSE][] file here.
 
 [Vijay Website]: https://vijaydaultani.github.io/
 [Vijay LinkedIn]: https://www.linkedin.com/in/vijaydaultani/
-[Vijay Twiter]: https://twitter.com/vijaydaultani
+[Vijay Twitter]: https://twitter.com/vijaydaultani
 [Mausam LinkedIn]: https://www.linkedin.com/in/mausam-jain-b65a2a93
 [LICENSE]: https://github.com/vijaydaultani/validate_research/blob/master/LICENSE
 [Github link]: https://github.com/vijaydaultani/validate_research
