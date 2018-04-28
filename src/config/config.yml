@@ -1,0 +1,86 @@
+CNN:
+  metric:
+     - ROUGE-1
+     - ROUGE-2
+     - ROUGE-L
+DUC_2001:
+  tasks:
+    - 1
+  metric:
+    - ROUGE-1
+    - ROUGE-2
+    - F1-SCORE
+DUC_2002:
+  tasks:
+    - 1
+    - 2
+  metric:
+    - ROUGE-1
+    - ROUGE-2
+    - ROUGE-SU4
+    - F1-SCORE
+DUC_2004:
+  tasks:
+    - 0
+    - 1
+    - 2
+  metric:
+    - ROUGE-1
+    - ROUGE-2
+    - ROUGE-L
+DUC_2005:
+  metric:
+    - ROUGE-1
+    - ROUGE-2
+    - ROUGE-SU4
+DUC_2006:
+  metric:
+    - ROUGE-1
+    - ROUGE-2
+    - ROUGE-3
+    - ROUGE-L
+    - ROUGE-SU4
+    - Compression Ratio
+DUC_2007:
+  metric:
+    - ROUGE-1
+    - ROUGE-2
+    - ROUGE-3
+    - ROUGE-L
+    - ROUGE-SU4
+GIGAWORD:
+  metric:
+    - ROUGE-1
+    - ROUGE-2
+    - ROUGE-L
+IMDB:
+  metric:
+    - PROPORTION_100
+    - PROPORTION_50
+    - PROPORTION_33
+    - PROPORTION_25
+    - PROPORTION_20
+    - PROPORTION_FULL
+LCSTS:
+  metric:
+    - ROUGE-1
+    - ROUGE-2
+    - ROUGE-L
+MSR_ATC:
+  metric:
+    - ROUGE-1
+    - ROUGE-2
+    - ROUGE-L
+TAC_2009:
+  tasks:
+    - summarization
+  metric:
+    - ROUGE-1
+    - ROUGE-2
+TAC_2011:
+  tasks:
+    - summarization
+  metric:
+    - ROUGE-1
+    - ROUGE-2
+    - ROUGE-SU4

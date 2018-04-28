@@ -1,0 +1,47 @@
+PAPER NUMBER,PAPER NAME,YEAR
+1,Multi-Document Summarization using Distributed Bag-of-Words Model,2017
+2,AUTOMATED TEXT SUMMARIZATION AND THE SUMMARIST SYSTEM,1997
+3,Automated text summarization in summarist,1998
+4,Meme-tracking and the dynamics of the news cycle,2009
+5,Corpus-based Web Document Summarization using Statistical and Linguistic Approach,2010
+6,Framework of automatic text summarization using reinforcement learning,2012
+7,Automated text summarization base on lexicales chain and graph using of wordNet and wikipedia knowledge base,2012
+8,Document Summarization Based on Data Reconstruction,2012
+9,Query-oriented multi-document summarization via unsupervised deep learning,2012
+10,Multi-Topic Multi-Document Summarizer,2013
+11,Extraction of Salient Sentences from Labelled Documents,2014
+12,Fear the REAPER : A System for Automatic Multi-Document Summarization with Reinforcement Learning,2014
+13,An approach for text summarization using deep learning algorithm,2014
+14,"Modelling, Visualising and Summarising Documents with a Single Convolutional Neural Network",2014
+15,Reader-Aware Multi-Document Summarization via Sparse Coding,2015
+16,Multi-Document Summarization Based on Two-Level Sparse Representation Model,2015
+17,Compressive document summarization via sparse optimization,2015
+18,Toward Abstractive Summarization Using Semantic Representations,2015
+19,Optimizing sentence modeling and selection for document summarization,2015
+20,Ranking with recursive neural networks and its application to multi-document summarization,2015
+21,Extending a Single-Document Summarizer to Multi-Document : a Hierarchical Approach,2015
+22,Summarization of films and documentaries based on subtitles and scripts,2016
+23,Neural Headline Generation with Sentence-wise Optimization,2016
+24,Towards Constructing Sports News from Live Text Commentary,2016
+25,Neural Headline Generation with Minimum Risk Training,2016
+26,AttSum: Joint Learning of Focusing and Summarization with Neural Attention,2016
+27,Incorporating Copying Mechanism in Sequence-to-Sequence Learning,2016
+28,Pointing the Unknown Words,2016
+29,Efficient Summarization with Read-Again and Copy Mechanism,2016
+30,Controlling Output Length in Neural Encoder-Decoders,2016
+31,Neural Network-Based Abstract Generation for Opinions and Arguments,2016
+32,Neural Headline Generation on Abstract Meaning Representation,2016
+33,Language as a Latent Variable: Discrete Generative Models for Sentence Compression,2016
+34,Distraction-Based Neural Networks for Document Summarization,2016
+35,Different approaches for identifying important concepts in probabilistic biomedical text summarization,2017
+36,A Sentence Compression Based Framework to Query-Focused Multi-Document Summarization,2016
+37,Improving Multi-Document Summarization via Text Classification,2017
+38,Scientific Article Summarization Using Citation-Context and Article's Discourse Structure,2015
+39,Supervised learning of automatic pyramid for optimization-based multi-document summarization,2017
+40,Selective Encoding for Abstractive Sentence Summarization,2017
+41,Get To The Point: Summarization with Pointer-Generator Networks,2017
+42,Deep Keyphrase Generation,2017
+43,Detecting (Un)Important Content for Single-Document News Summarization,2017
+44,Salience Estimation via Variational Auto-Encoders,2017
+45,Summarizing Answers in Non-Factoid Community Question-Answering,2017
+46,Multi-Document Summarization via Discriminative Summary Reranking,2015

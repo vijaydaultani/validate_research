@@ -1,0 +1,23 @@
+METHOD,PAPER NUMBER,PROPOSED,ROUGE-1,ROUGE-2,ROUGE-L
+Luhn,34,0,0.232,0.072,0.155
+Edmundson,34,0,0.245,0.082,0.167
+LSA,34,0,0.212,0.062,0.14
+Lex-rank,34,0,0.261,0.096,0.177
+Text-rank,34,0,0.233,0.077,0.158
+Sum-basic,34,0,0.229,0.055,0.148
+KL-sum,34,0,0.207,0.059,0.137
+Uni-GRU,34,1,0.184,0.048,0.143
+Bi-GRU,34,1,0.195,0.052,0.15
+Bi-GRU + Two-level out,34,1,0.202,0.059,0.157
+Bi-GRU + Two-level out + UNK replace,34,1,0.213,0.063,0.164
+Bi-GRU + Two-level out + UNK replace +  Distraction M1,34,1,0.222,0.065,0.167
+Bi-GRU + Two-level out + UNK replace +  Distraction M1 + Distraction M2,34,1,0.244,0.077,0.178
+Bi-GRU + Two-level out + UNK replace +  Distraction M1 + Distraction M2 + Distraction M3,34,1,0.271,0.082,0.187
+"abstractive model (Nallapati et al., 2016)",41,0,0.3546,0.133,0.3265
+seq-to-seq + attn baseline (150k vocab),41,0,0.3049,0.1117,0.2808
+seq-to-seq + attn baseline (50k vocab),41,0,0.3133,0.1181,0.2883
+pointer-generator,41,1,0.3644,0.1566,0.3342
+pointer-generator + coverage,41,1,0.3953,0.1728,0.3638
+lead-3 baseline (See et al.),41,0,0.4034,0.177,0.3657
+"lead-3 baseline (Nallapati et al., 2017)",41,0,0.392,0.157,0.355
+"extractive model (Nallapati et al., 2017)",41,0,0.396,0.162,0.353

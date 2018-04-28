@@ -1,0 +1,8 @@
+METHOD,PAPER NUMBER,PROPOSED,TASK,ROUGE-1,ROUGE-2,ROUGE-SU4
+Random,44,0,summarization,0.303,0.045,0.09
+Lead,44,0,summarization,0.315,0.071,0.103
+PKUTM,44,0,summarization,0.396,0.113,0.148
+RA-MDS,44,0,summarization,0.4,0.117,0.151
+ABS-Phrase,44,0,summarization,0.393,0.117,0.148
+VAEs-Zero,44,1,summarization,0.388,0.113,0.145
+VAEs-A,44,1,summarization,0.405,0.122,0.155
