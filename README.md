@@ -5,7 +5,8 @@ This is a repository for benchmarking state of the art research papers and propo
 * Motivation
 * Data Format
 	* Structure of this repository
-	* Sample data from DUC2002 dataset.
+	* Sample data from DUC2002 dataset file
+	* Sample graph from DUC2004 dataset file
 	* Column meanings
 * Usage
 	* Command line example of the code
@@ -33,16 +34,20 @@ Given the fact that NLP community has seen lot of work in almost every existing 
 * For future addition of tasks, same format will be followed.
 * Sample format of a dataset file is shown below.
 
-### Sample data from DUC2002 dataset file
-| METHOD | PAPER NUMBER | PROPOSED | TASK (optional) | ROUGE-1 | ROUGE-2 | 
-| ------------- | -------- | -------- | -------- | -------- | -------- | 
-| Peer 26 | 37 | 0 | 1 | 35.15 | 7.64 | 
-| SVR | 37 | 0 | 1 | 31.56 | 6.78 | 
-| R2N2 | 37 | 0 | 1 | 36.84 | 8.52 |
-| NoTC | 37 | 1 | 1 | 34.02 | 7.39 |
-| EmSim | 37 | 1 | 1 | 29.46 | 5.28 |
-| SingleT | 37 | 1 | 1 | 36.54 | 8.44 |
-| TCSum | 37 | 1 | 1 | 36.9 | 8.61 |
+### Sample data from DUC2004 dataset file
+| METHOD | PAPER NUMBER | PROPOSED | TASK (optional) | ROUGE-1 | ROUGE-2 | ROUGE-L |
+| ------------- | -------- | -------- | -------- | -------- | -------- | -------- | 
+| ASRL | 6 | 1 | 2 | 0.39013 | 0.09479 | 0.33769 |
+| MCKP | 6 | 0 | 2 | 0.39033 | 0.09613 | 0.34225 |
+| REAPER | 12 | 1 | 2 | 0.40339 | 0.11397 | 0.36574 |
+| ASRL | 12 | 0 | 2 | 0.39013 | 0.09479 | 0.33769 |
+| DivSelect+CNNLM | 19 | 1 | 2 | 0.40907 | 0.10723 | 0.14969 |
+| DivRank | 19 | 0 | 2 | 0.38851 | 0.09555 | 0.13827 |
+
+### Sample graph from DUC2004 dataset file
+<p align="center">
+<img src="graphs/DUC_2004-2-ROUGE-L.png" width="600"/>
+</p>
 
 ### Column meanings
 * **METHOD:** All the method names that are referenced in a particular paper along with their own.
