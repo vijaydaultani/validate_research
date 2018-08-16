@@ -1,4 +1,4 @@
-## All 
+## Table of Contents 
 Following are all the graphs for Text Summarization Datasets.
 
 * CNN-ROUGE-1
