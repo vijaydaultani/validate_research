@@ -1,0 +1,27 @@
+ILSVRC_2014:
+  metric:
+     - mAP_val1
+     - mAP_test
+Inner_city:
+  metric:
+    - mAP
+KITTI:
+  metric:
+    - mAP
+    - CATEGORY_CAR_AP
+    - CATEGORY_PEDESTRIAN_AP
+    - CATEGORY_CYCLIST_AP
+MS_COCO_2015:
+  metric:
+    - AP
+    - AP@.50IOU
+    - AP@.75IOU
+    - AP_small
+    - AP_med
+    - AP_large
+    - AR@1
+    - AR@10
+    - AR@100
+    - AR_small
+    - AR_med
+    - AR_large

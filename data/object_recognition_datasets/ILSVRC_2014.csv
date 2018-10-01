@@ -1,0 +1,13 @@
+METHOD,PAPER NUMBER,PROPOSED,mAP_val1,mAP_test
+RCNN_Berkeley_Vision,17,0,31,31.4
+UvA-Euvision,17,0,33.4,34.5
+DeepInsight,17,0,,35.4
+GoogLeNet,17,0,,40.5
+ours1,17,1,44.5,43.9
+ours2,17,1,40.9,40.7
+Deep_Insight_ensemble,18,0,45,
+GoogLeNet_ensemble,18,0,,0.41
+DeepID-Net_ensemble,18,0,,0.44
+MSC-MultiBox_single-crop,18,1,,0.44
+"MSC-MultiBox_multi-crop,one_model",18,1,,0.45
+Ensemble_of_two_models_of_MSC-MultiBox,18,1,,0.5
